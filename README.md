@@ -78,12 +78,12 @@
 ### 📊 开发者体征与遥测看板 (Telemetry & Live Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moyu-Dev16&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyu-Dev16&layout=compact&theme=tokyonight&hide_border=false&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" height="165" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Moyu-Dev16&theme=tokyonight&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9" height="185" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moyu-Dev16&theme=tokyonight" height="185" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moyu-Dev16&theme=tokyonight&hide_border=false&border_color=00f2fe&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&stroke=00f2fe" />
+  <img src="https://streak-stats.demolab.com/?user=Moyu-Dev16&theme=tokyonight&hide_border=false&border_color=00f2fe&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&stroke=00f2fe" />
 </div>
 
 ---
